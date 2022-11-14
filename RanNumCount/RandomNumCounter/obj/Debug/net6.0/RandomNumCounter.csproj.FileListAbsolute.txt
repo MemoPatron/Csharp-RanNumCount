@@ -1,0 +1,15 @@
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\bin\Debug\net6.0\RandomNumCounter.exe
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\bin\Debug\net6.0\RandomNumCounter.deps.json
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\bin\Debug\net6.0\RandomNumCounter.runtimeconfig.json
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\bin\Debug\net6.0\RandomNumCounter.dll
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\bin\Debug\net6.0\RandomNumCounter.pdb
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.csproj.AssemblyReference.cache
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.AssemblyInfoInputs.cache
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.AssemblyInfo.cs
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.dll
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\refint\RandomNumCounter.dll
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.pdb
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\RandomNumCounter.genruntimeconfig.cache
+C:\Users\salim\OneDrive\TEC\GF2\Programmering\C sharp\RanNumCount\RandomNumCounter\obj\Debug\net6.0\ref\RandomNumCounter.dll
